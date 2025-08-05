@@ -33,7 +33,7 @@ ERA+ allows better comparisons across players and teams, regardless of home park
 
 ## Tools & Data
 
-- R (`ggplot2`, `caret`, `randomForest`, `xgboost`, `e1071`)
+- R (`ggplot2`, `dplyr`, `caret`, `randomForest`, `xgboost`, `e1071`)
 - MLB 2022 season data (https://www.kaggle.com/datasets/vivovinco/2022-mlb-player-stats?select=2022+MLB+Player+Stats+-+Pitching.csv)
 
 ## Acknowledgement
